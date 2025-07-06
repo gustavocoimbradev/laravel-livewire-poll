@@ -32,8 +32,8 @@ This is a simple polling platform built with Laravel and Livewire. Created for p
 
 #### Livewire Components
 
-- [app/Http/Livewire/CreatePoll.php](app/Http/Livewire/CreatePoll.php) – Handles poll creation  
-- [app/Http/Livewire/AvailablePolls.php](app/Http/Livewire/AvailablePolls.php) – Displays available polls  
+- [app/Livewire/CreatePoll.php](app/Livewire/CreatePoll.php) – Handles poll creation  
+- [app/Livewire/AvailablePolls.php](app/Livewire/AvailablePolls.php) – Displays available polls  
 
 #### Views
 
