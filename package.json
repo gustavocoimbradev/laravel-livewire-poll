@@ -3,6 +3,7 @@
     "private": true,
     "type": "module",
     "scripts": {
+        "publish": "git add . && git pull && git commit -m 'laravel-livewire-poll' && git push",
         "build": "vite build",
         "dev": "vite"
     },
